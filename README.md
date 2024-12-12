@@ -7,7 +7,7 @@ _______________________________________________________________________
 - hero sections
   
 ## 2. Target Audience Analysis
-Demographics:
+**Demographics:**
 - Age: 32
 - Gender: Female
 - Location: Suburban area in California
@@ -15,12 +15,12 @@ Demographics:
 - Education: Bachelor’s degree in communications
 - Occupation: Marketing professional, part-time remote worker
 
-Values:
+**Values:**
 - Healthy living and maintaining a balanced diet for her family.
 - Reducing food waste by using leftovers creatively.
 - Finding inspiration to make mealtime exciting and stress-free.
 
-Pain Points:
+**Pain Points:**
 - Struggles with recipes that require too many steps or specialty ingredients.
 - Finds it frustrating when nutritional information isn’t clearly provided.
 - Dislikes pop-ups and intrusive ads while browsing recipes.
@@ -29,27 +29,27 @@ Pain Points:
 
 ## 3. User Flow: Cooking Site
 
-Goal: 
+**Goal:** 
 - Finding a recipe and successfully preparing it
 
-Awareness:
+**Awareness:**
 - User searches online for "easy pasta recipes" or "healthy dinner ideas."
 - They discover your cooking site in the search results.
 
-Exploration:
+**Exploration:**
 - User lands on the homepage or a specific recipe page.
 - They browse through a categorized list of recipes (e.g., "Quick Meals" or "Vegan Options").
 
-Engagement:
+**Engagement:**
 - User selects a recipe.
 - The recipe page provides clear ingredients, steps, and visuals (images or video).
 - Additional features like portion calculator or a cooking timer enhance engagement.
 
-Action:
+**Action:**
 - User uses the recipe to prepare the meal.
 - They bookmark, share, or print the recipe.
 
-Retention:
+**Retention:**
 - The user signs up for a newsletter to receive more recipes.
 - They return to explore new recipes or meal plans.
 
@@ -63,9 +63,7 @@ Retention:
 
 ## 5. Mockup
 
-![image](https://github.com/user-attachments/assets/f9795294-ba92-4101-9192-efbb8b7651aa)
+![Frame 1 (1)](https://github.com/user-attachments/assets/829c0f7e-dc01-4831-a974-1213d21a680e)
 
-
-https://www.figma.com/proto/TMc0nhRMJMKTkmY7X2020n/visc104-wireframe?node-id=1-2&node-type=canvas&t=EXDl6L7yafHBWlv1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2Links to an external site.
-
+https://www.figma.com/design/GoYxaegAbBT6ZxczqIfzsw/Butterball-mockup?node-id=0-1&t=BjBVog1rKIUVse5b-1
  
