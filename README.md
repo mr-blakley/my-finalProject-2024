@@ -1,12 +1,12 @@
 # my-finalProject-2024
 _______________________________________________________________________
 
-## Web Design Trends
+## 1. Web Design Trends
 - minimalist
 - dark mode
 - hero sections
   
-## Target Audience Analysis
+## 2. Target Audience Analysis
 Demographics:
 - Age: 32
 - Gender: Female
@@ -27,7 +27,7 @@ Pain Points:
 
 
 
-## User Flow: Cooking Site
+## 3. User Flow: Cooking Site
 
 Goal: 
 - Finding a recipe and successfully preparing it
@@ -55,3 +55,17 @@ Retention:
 
   
 ![userFlow example](https://github.com/user-attachments/assets/6f436852-56f0-4121-a9a9-1edc7eb2f1e2)
+
+## 4. Wireframe
+
+![image](https://github.com/user-attachments/assets/84eb4921-b180-4729-9630-2d280cfb69db)
+
+
+## 5. Mockup
+
+![image](https://github.com/user-attachments/assets/f9795294-ba92-4101-9192-efbb8b7651aa)
+
+
+https://www.figma.com/proto/TMc0nhRMJMKTkmY7X2020n/visc104-wireframe?node-id=1-2&node-type=canvas&t=EXDl6L7yafHBWlv1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2Links to an external site.
+
+ 
